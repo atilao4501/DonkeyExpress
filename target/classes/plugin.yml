@@ -1,0 +1,6 @@
+name: BurrinhoExpress
+version: '1.0-SNAPSHOT'
+main: me.atilao45.burrinhoExpress.main
+api-version: '1.21'
+authors: [ atilao45 ]
+description: My first plugin ever
